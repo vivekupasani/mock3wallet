@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "strict": false,
+    "paths": {
+      "@/*": ["./*"]
+    },
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "jsx": "react"
+  },
+  "include": [
+    "**/*.js",
+    "**/*.jsx",
+    ".expo/types/**/*.js"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
