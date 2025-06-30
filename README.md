@@ -25,7 +25,10 @@ A full-stack project simulating a **Web3 wallet** system using **Node.js**, **Ex
 - 🧱 Clean MVC structure for maintainability
 
 ---
+## 📸 Preview
+[🎥 Watch Demo Video](https://github.com/user-attachments/assets/ef097848-7ba3-4ae8-98b6-a88eec683fca) 
 
+---
 ## ⚙️ Technologies
 
 - **Backend**: Node.js, Express, MongoDB, Mongoose
@@ -92,3 +95,7 @@ npm start
 ---
 
 > This project is a solid base for real-world crypto wallet apps.
+
+
+
+
